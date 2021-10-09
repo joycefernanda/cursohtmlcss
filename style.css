@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    background-color: rgba(225, 247, 206, 0.493);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* height: 100%; */
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right, #EDE2CC 20%, #B6ACE8);
+}
+
+main {
+    background-color: white;
+    border-radius: 10%;
+    box-shadow: 4px 5px 16px #625b839c;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #FFC9CD;
+    text-align: center;
+    text-shadow: 1px 1px 0px #92c2bbef;
+}
+
+h2 {
+    color: #DCFFBD;
+    text-shadow: 2px 2px 0px #d3a3a6;
+}
+
+p {
+    text-align: justify;
+}
